@@ -27,3 +27,12 @@ vercel dev
 Open http://localhost:3000 in your browser
 
 The serverless function is located in the `/api/translate.js` file and can be accessed with the endpoint `/api/translate`
+
+# Find the Production Live Code =>
+
+https://tts-abc.vercel.app/ <br>
+
+OR <br>
+
+https://text-translate-speech-app.vercel.app/ 
+
